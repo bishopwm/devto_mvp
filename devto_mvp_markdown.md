@@ -1,3 +1,5 @@
+Suggested Tags: ai, collaboration, integration
+
 # [](#openai_miro)[Unlock visual collaboration with generative AI + Miro](https://developers.miro.com/docs/video-integrate-openai-miro?utm_source=devto_openai)
 
 [![](https://github.com/bishopwm/jsWorldTest/assets/10800544/a5731a8b-46a1-492a-b25b-f416262de606)](https://dev.to/advertising-interest?bb=youradhere-text)
@@ -17,6 +19,8 @@ Integrate OpenAI + Miro in just 15 minutes.
 **[Watch the tutorial→](https://developers.miro.com/docs/video-integrate-openai-miro?utm_source=devto_openai)**
 
 ---
+
+Suggested Tags: nextjs, awsamplify, deployment, environment
 
 # [](#openai_miro)[Deploy a NextJS (Miro) App to AWS Amplify in under 10 min](https://developers.miro.com/docs/video-deploy-a-nextjs-app-on-aws-amplify?utm_source=devto_amplify)
 
@@ -39,6 +43,8 @@ Deploy a Miro NextJS app to AWS Amplify with environment variables in under 10 m
 
 ---
 
+Suggested tags: javascript, beginners, boilerplate
+
 # [](#openai_miro)[Explore 20+ JS-based starter apps in Miro](https://github.com/miroapp/app-examples?utm_source=devto_app_examples)
 
 [![](https://github.com/bishopwm/jsWorldTest/assets/10800544/ddfd18c8-ab15-4442-a11b-98df51b1f685)](https://dev.to/advertising-interest?bb=youradhere-text)
@@ -58,6 +64,8 @@ Uplevel your JavaScript skills. Explore Miro's collection of 20+ example apps bu
 **[Explore the collection→](https://github.com/miroapp/app-examples?utm_source=devto_app_examples)**
 
 ---
+
+hackathon, innovation, miro
 
 # [](#openai_miro)[Participate in 48 hrs of innovation at the Miro </> Junction Virtual Hackathon!](https://developers.miro.com/page/junction-miro-hackathon?utm_source=devto_junction)
 
