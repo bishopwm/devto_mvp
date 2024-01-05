@@ -65,7 +65,7 @@ Uplevel your JavaScript skills. Explore Miro's collection of 20+ example apps bu
 
 ---
 
-hackathon, innovation, miro
+Suggested Tags: hackathon, innovation, miro
 
 # [](#openai_miro)[Participate in 48 hrs of innovation at the Miro </> Junction Virtual Hackathon!](https://developers.miro.com/page/junction-miro-hackathon?utm_source=devto_junction)
 
